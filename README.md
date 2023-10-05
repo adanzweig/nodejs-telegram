@@ -57,6 +57,3 @@ You can customize the message or integrate this script into your project. Update
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Make sure to include a `LICENSE.md` file with the appropriate license text if you choose a license for your project.
